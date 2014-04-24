@@ -1,4 +1,6 @@
 cooperhewitt-lod
 ================
 
-Mapping of cooperhewit data to LOD using CRM
+Mapping of cooperhewitt data to LOD using CRM
+
+The CooperHewitt data is in https://github.com/cooperhewitt/collection
